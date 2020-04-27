@@ -328,13 +328,13 @@ TwiML app request url should point to the correct route in BWEL app
 defaults: &defaults
   domain: "https://bwel-poc1.smithwebtek.com"
   twilio:
-    account_sid: 'AC9e0d47fdf1177c1dab421794f19d909c'
-    auth_token: 'bfe142b737da69157f2dbcb04af498ba'
-    sid: 'SK58ccd186d7cc4b7043ffd82cd54701f6'
-    secret: 'NWYtymwEWRbQ6nnuXb6rkkjXF4LVetvV'
+    account_sid: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    auth_token: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    sid: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    secret: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     phone_number: '+16173973501'
-    phone_number_sid: 'PN75802fc1f8fc1a5da7e69ef160e19a33'
-    app_sid: 'APc16f3ae4422a03b55eab3fba03c40098'
+    phone_number_sid: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    app_sid: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 
 
