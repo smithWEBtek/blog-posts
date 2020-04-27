@@ -1,9 +1,9 @@
-Provision barebones Ubuntu 18 box
+Provision Ubuntu 18.04 for HARVARD_BWELSTUDY deployment
 
 
-1. Get access to an Ubuntu instance
+Get access to an Ubuntu instance
 
-2. Set up root, ubuntu and deploy users
+Set up root, ubuntu and deploy users
 	Login and put your id_rsa.pub in the ~/.ssh/authorized_keys file 
 	
 	SSH in as root or user with sudo ability
